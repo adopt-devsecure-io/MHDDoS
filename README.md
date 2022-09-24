@@ -158,3 +158,4 @@ apt -y update && apt -y install curl wget libcurl4 libssl-dev python3 python3-pi
 * https://idpay.ir/mh-prodev
 
 - python3 start.py  APACHE https://sante-proche.com 4 894 proxy.txt 61 1693
+- Methods ( MEM, BOT, NTP, DYN, RHEX, DGB, BYPASS, ICMP, COOKIE, PPS, BOMB, POST, TCP, ARD, FIVEM, HEAD, CLDAP, CFB, AVB, EVEN, CHAR, RDP, CPS, TS3, STRESS, VSE, STOMP, SYN, MINECRAFT, TOR, OVH, KILLER, CONNECTION, GSB, DNS, CFBUAM, MCPE, SLOW, DOWNLOADER, XMLRPC, GET, MCBOT, UDP, APACHE)
