@@ -157,4 +157,4 @@ apt -y update && apt -y install curl wget libcurl4 libssl-dev python3 python3-pi
 **💰 Donation Links:**
 * https://idpay.ir/mh-prodev
 
-**python3 start.py  APACHE https://sante-proche.com 4 894 proxy.txt 61 1693**
+- python3 start.py  APACHE https://sante-proche.com 4 894 proxy.txt 61 1693
